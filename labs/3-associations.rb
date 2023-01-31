@@ -15,7 +15,8 @@ Activity.destroy_all
 #   single salesperson's activity data:
 
 # 1. insert 3 rows in the activities table with relationships to
-# a single salesperson and 2 different contacts
+# a single salesperson and 2 different contact
+
 
 # 2. Display all the activities between the salesperson used above
 # and one of the contacts (sample output below):
